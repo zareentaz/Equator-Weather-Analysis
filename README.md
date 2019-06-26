@@ -7,12 +7,14 @@ Data Analysis
  
  
  
+ 
+ 
  Screenshots:
+ 
  
   plot the graph for latitude vs.Temperatue
   
-![Screenshot (13)](https://user-images.githubusercontent.com/49598347/60151055-e855a800-97a0-11e9-90ae-b91ca28e86ab.png
-
+![Screenshot (13)](https://user-images.githubusercontent.com/49598347/60151251-9b260600-97a1-11e9-8be6-e07678826efa.png)
 
 #plot the graph Latitude vs. Humidity plot
 
