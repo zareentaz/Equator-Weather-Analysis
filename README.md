@@ -14,17 +14,17 @@ Data Analysis
  
   plot the graph for latitude vs.Temperatue
   
-![Screenshot (13)](https://user-images.githubusercontent.com/49598347/60151251-9b260600-97a1-11e9-8be6-e07678826efa.png)
+  
 
-#plot the graph Latitude vs. Humidity plot
-
-![Screenshot (14)](https://user-images.githubusercontent.com/49598347/60151059-eb509880-97a0-11e9-8f41-68b034d510ed.png)
-
-#plot the graph between  Latitude vs Cloudiness
-
-![Screenshot (15)](https://user-images.githubusercontent.com/49598347/60151061-ec81c580-97a0-11e9-8e04-c786851d190b.png)
+  plot the graph Latitude vs. Humidity plot
+  
 
 
-plot the graph between Latitude vs.Wind Speed plot
+  plot the graph between  Latitude vs Cloudiness
 
-![Screenshot (16)](https://user-images.githubusercontent.com/49598347/60151062-ee4b8900-97a0-11e9-8872-cc446f4e9b34.png)
+
+
+
+ plot the graph between Latitude vs.Wind Speed plot
+
+
